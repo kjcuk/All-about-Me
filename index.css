@@ -1,0 +1,73 @@
+html {
+
+    background-color: rgb(215, 250, 229);
+    color: hotpink;}
+    
+    h1 
+    {background-color: teal;
+    color:black;
+    text-align: center;
+    border: 10px solid rgb(238, 198, 19);
+    padding: 30px;}
+    h2
+    {background-color: rgb(109, 128, 0);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 500;
+    border: 5px solid rgb(238, 19, 172);
+    padding: 10px;}
+    
+      main {background-color: whitesmoke;}  
+  
+  
+  
+      ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #0d700d;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(123, 218, 14);
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+  
+  /* Change the link color on hover */
+  li a:hover {
+    background-color: rgb(123, 218, 14);
+    color: white;
+  }
+  .active {
+    background-color: #4e4caf;
+    color: blue;
+  }
+  ul {
+    border: 1px solid rgb(85, 85, 85);
+  }
+  
+  li {
+    text-align: center;
+    border-bottom: 1px solid #555;
+  }
+  
+  li:last-child {
+    border-bottom: none;
+  }
+  
+  #border1 {border: 10px double rgb(128, 15, 0);
+  
+
+
+    .half { width: 50%; }
+
+    .social-link 
+ {font-style:normal;
+  font-weight: bold;
+color:rgb(208, 255, 0)}
+  
