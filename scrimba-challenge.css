@@ -13,6 +13,7 @@
     float: right;
     margin-top:-20;
     padding: 0;
+
 }
 #image {
 	background: #e2a741;
@@ -36,6 +37,7 @@
   margin-right: 100px;
   margin-top: 100px;
   margin-bottom: 100px;
+
 .centre
 {
     display: block;
@@ -44,42 +46,23 @@
     width: 50%;
 
 }
+
+
 .button {
-    border: none;
-    color: rgb(143, 18, 18);
-    padding: 16px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    transition-duration: 0.4s;
-    cursor: pointer;
+  display: inline-block;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  color: #ffffff;
+  background-color:blue;
+  border-radius: 6px;
+  outline: none;
+}
+
+
+
   }
   
-  .button1 {
-    background-color: white;
-    color: black;
-    border: 2px solid #4CAF50;
-  }
-  
-  .button1:hover {
-    background-color: #4CAF50;
-    color: white;
-  }
-  
-  .button2 {
-    background-color: white;
-    color: black;
-    border: 2px solid #008CBA;
-  }
-  
-  .button2:hover {
-    background-color: #008CBA;
-    color: white;
-  }
-  
-  </style>
   </head>
   <body>
   
