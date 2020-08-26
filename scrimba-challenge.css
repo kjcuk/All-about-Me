@@ -12,7 +12,7 @@ h1 {
 #content {
 	background: #b7d84b;
     width: 75%;
-    height: 400px;
+    height: 600px;
     float: right;
     margin-top:0px;
     padding: 0px;
@@ -21,7 +21,7 @@ h1 {
 #image {
 	background: #e2a741;
     width: 25%;
-    height: 400px;
+    height: 600px;
     float: left;
     margin:  0px;
     padding: 0px;
